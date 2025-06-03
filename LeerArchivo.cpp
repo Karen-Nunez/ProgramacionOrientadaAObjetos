@@ -2,6 +2,11 @@
 #include <fstream>
 #include <string>
 
+// Karen Alessandra Nuñez Garcia
+// Noveno programa
+// 30-05-2025
+// Leer un archivo
+
 int main() {
     // Nombre del archivo a leer (debe estar en la misma carpeta que el ejecutable)
     std::string nombreArchivo = "Tulipanes.txt";
